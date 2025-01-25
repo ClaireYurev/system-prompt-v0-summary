@@ -1,6 +1,6 @@
 # system-prompt-v0-summary
 
-Okay, I can definitely help you break down the v0.dev system prompt and understand how to leverage it for better prompting, especially for complex SaaS projects. Let's go through it section by section:
+This summary is here to help you break down the v0.dev system prompt and understand how to leverage it for better prompting, especially for complex SaaS projects. Let's go through it section by section:
 
 Understanding the v0.dev System Prompt
 
